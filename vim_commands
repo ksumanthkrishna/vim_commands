@@ -1,0 +1,50 @@
+vim --version    ----> to know the version of existing vim
+gvim "path of the file" -------> to open the file
+crtl + c --------> shows you how to quit(depends on version to version)
+":" -------> used to write all the comands
+"q"---------> to quit
+"a"--------> all buffers
+"!"-------> force
+"i"---------->insert mode
+"esc" or "crtl + c" to go back from selected mode
+":w" for saving a file
+":w file_name" to create a new file from an existing file
+":e file_name" to edit another file or to swith between files
+":wq" ---->to save and quit
+in normal mode "h----> to move left
+                j-----> to move down
+                k------> to move up
+                l------> to love right"
+in normal mode "w ------->to move to next word" 
+               "e--------> moves to end of the current word"
+               "( -------> to move to next sentence"
+               ") --------> to come back to previous sentence"
+               "{ ---------> to move to next paragraph"
+               "} ---------> to move to previous paragraph"
+"/word to serch" ---- displays the word in the text (forword search)
+                  use "n" for next match and 
+ "?word to serch"------for backword search 
+ "shift+g or G"  --------->to move to end of the file 
+ "gg"--------->to move to top of the file 
+ "crtl+f" ------------> for page up i.e next page
+ "crtl+b" ------------>back page or previous page
+ ":line_number" ---> move to that particular line or use 
+ "line_number+shift+g" ---> move to that particular line or use
+ "*" ----> to search current word in the whole text
+ "d"---->used for deleteing but it needs to be used with wither word,line or paragrapgh.
+ "dw"---->delete word
+ "dd"----->whole line
+ "d+/word" ---->to delete upto that word
+ "u"------> to undo
+ "y"---->commmand used to copy need to be used word,line,praragraph
+ "yw"--->copy the current word
+ "yy"----> copy the whole sentence
+ "p"---> to paste at where the cursur was spotting
+ "shift+p"----to paste just before the cursur was spotting
+ 
+ 
+ 
+ 
+               
+               
+ 
